@@ -31,12 +31,6 @@ http://162.55.220.72:5005/terminal-hw-request === curl 'http://162.55.220.72:500
 
 bash script.sh
 
-<<<<<<< HEAD
-
-bash script.sh
-
-=======
->>>>>>> 7c42ed87a48227d4ca49502a37c69eb7fe92f701
 #!/bin/bash
 cd group_34
 mkdir fold_1 fold_2 fold_3
@@ -46,10 +40,5 @@ mkdir papka_1 papka_2 papka_3
 ls -la
 mv ../fold_1/les_1.txt /d/qa/courses/group_34/fold_2
 mv ../fold_1/les_2.txt /d/qa/courses/group_34/fold_2
-
-=====================
-1) Посмотреть где я - pwd
-2) Создать папку - mkdir foldername
-3) Зайти в папку - cd foldername
 
 

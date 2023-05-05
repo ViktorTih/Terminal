@@ -5,7 +5,7 @@
 4) Создать 3 папки.   === mkdir fold_1 fold_2 fold_3
 5) Зайти в любоую папку. ==== cd fold_1
 6) Создать 5 файлов (3 txt, 2 json). === touch les_1.txt les_2.txt les_3.txt les_4.json les_5.json
-7) Создать 3 папк   === mkdir papka_1 papka_2 papka_3
+7) Создать 3 папки  === mkdir papka_1 papka_2 papka_3
 8. Вывести список содержимого папки. === ls -la
 9) + Открыть любой txt файл. === vim les_1.txt
 10) + написать туда что-нибудь, любой текст.=== i homework
